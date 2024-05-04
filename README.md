@@ -12,3 +12,6 @@ Explored and analyzed the data utilizing PowerBI to delve into historical bookin
 Examined booking origins, overall flight durations, and route preferences to ascertain the routes experiencing heightened demand and identify potential avenues for expansion. Furthermore, evaluating the effectiveness of diverse sales channels in driving bookings for specific routes can offer insights into refining marketing strategies.
 
 Delved into indicators signaling preferences for additional baggage, favored seating arrangements, and in-flight meal selections to unveil pertinent trends in customer behavior and expectations. Harnessing this knowledge can empower airlines to customize their services and offerings to align more closely with customer preferences and enhance satisfaction levels.
+
+![image](https://github.com/ManasiHaldankar/Airlines-booking-analysis-using-Power-BI/assets/90810075/2017f7e4-2a72-45b0-aa05-dcc8c35ae0d0)
+
